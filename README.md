@@ -3,7 +3,6 @@
 - 🌱 I’m currently completing a bachelors in comp sci!!
 - 💞️ I’m looking to collaborate on anything! ML might be fun :0
 - 📫 How to reach me pooleshayden@gmail.com
-- 😄 Pronouns: comp/sci ...
 - ⚡ Fun fact: I can crochet
 
 <!---
